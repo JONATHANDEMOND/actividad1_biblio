@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "email": "jao@yop.com",
+      "password": "$2a$10$zysgdpHcO5664r5KoIaEIuYmX3Nfl/5M9/XFZQdEIxQgnhTUpMpZO",
+      "type": "admin",
+      "id": 1
+    },
+    {
+      "email": "joa@yop.com",
+      "password": "$2a$10$b.4ni5e9hqaA3scCJRKOSOoAsmsP.hzONaWUr0uuNJFCBWNZ0oMay",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "email": "jairo@yop.com",
+      "password": "$2a$10$ZGtMqy033UhYz3PpKQ1SoOGpRbVSxQcCcB5J1JOtMTWY8O1ZVmooi",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "email": "man@yop.com",
+      "password": "$2a$10$WoIUKjSNaD0U9/Tt9.5f..cmdQLSnh8UJwEJTzppPtdhTIIzx3rbG",
+      "type": "admin",
+      "id": 4
+    },
+    {
+      "email": "lucho@yop.com",
+      "password": "$2a$10$V1z15PiFNbV5Z2k6HSlQ.erryX1cX7MLJ5WlSWxBS/UU8.7zwwCIW",
+      "type": "admin",
+      "id": 5
+    },
+    {
+      "email": "marco@yop.com",
+      "password": "$2a$10$lTLnaIrWEXvy0zCaKFDntOMYc4Wdnum.QpmPr4mik9u.DFn/y2bIe",
+      "type": "user",
+      "id": 6
+    },
+    {
+      "email": "dian@yop",
+      "password": "$2a$10$r46//zSP/cH.NysINTAxkOIt2Hm3xIMSTjJsUzxVwuPYCukEr9oAq",
+      "type": "admin",
+      "id": 7
+    },
+    {
+      "email": "Q@yop",
+      "password": "$2a$10$gQZf564EsPuuRAx.DeCIPOIJ268qWJSOeIWYjYzqDvei3q7LRNUQO",
+      "type": "user",
+      "id": 8
+    },
+    {
+      "email": "a@yop.com",
+      "password": "$2a$10$1kV4KvFJ8zQ0lwL8Up67hepZzCwN4qN4P1uoLJ9SZ0a6QjcV54khK",
+      "type": "admin",
+      "id": 9
+    },
+    {
+      "email": "c@yop.com",
+      "password": "$2a$10$h2WvdlkKHMWVagRpzoy6g.rpuOSbwvALSXT6/8jlRM8AiJHMvnB6m",
+      "type": "user",
+      "id": 10
+    },
+    {
+      "email": "d@yop.com",
+      "password": "$2a$10$VPNR5KtHrn1G/AXaOpiH2.UdHIksw7QcFc8eIcaBrEUFyQwToqyQC",
+      "type": "user",
+      "id": 11
+    },
+    {
+      "email": "f@yop.com",
+      "password": "$2a$10$FuZeYMLCJyF7NUHEBTSm4.KL.l4eCsRa9UYcJk3AuUb0NgXmHRyQO",
+      "type": "admin",
+      "id": 12
+    },
+    {
+      "email": "w@yop.com",
+      "password": "$2a$10$aMKrnv7EV86i7mXr2Fi3ruZ8yBXdcm0oxT7slvSy4Go6u3Y4qdO9q",
+      "type": "user",
+      "id": 13
+    },
+    {
+      "email": "e@yop.com",
+      "password": "$2a$10$3Tyi6gvRP/JOF/HDYYnLGOIX/sPTHWo24p/flpnlUQsPPDCxmd5ki",
+      "type": "admin",
+      "id": 14
+    },
+    {
+      "email": "p@yop.com",
+      "password": "$2a$10$dHAqzB0dIgz2BF6UPnKi0.H8qwhhKQ6Y1CRbtraGqer1fr1qdtOBG",
+      "type": "user",
+      "id": 15
+    },
+    {
+      "email": "t@yop",
+      "password": "$2a$10$pTGUQm4k/GTwtgghanJYkeQ4f0vBEiBsqKjlpM81LEu8NjkND2xP2",
+      "type": "admin",
+      "id": 16
+    },
+    {
+      "email": "g@yop.com",
+      "password": "$2a$10$FmNURXkCnuWIVL4hJa/wPekojeVLWixKo9O1VfHpwKsGqT4B2eZpi",
+      "type": "user",
+      "id": 17
+    },
+    {
+      "email": "n@yop.com",
+      "password": "$2a$10$MTctJ1lBiDLLijYJj6Pq3e5qNlDOOBOJFe.2TvdIJb2T65w2qwMei",
+      "type": "admin",
+      "id": 18
+    },
+    {
+      "email": "m@yop",
+      "password": "$2a$10$G3gLwFdTj52Tk1qxlMOM8OVQSzmNIVJ7rOwirkfUZUE.byDHEpkce",
+      "type": "admin",
+      "id": 19
+    }
+  ]
+}
